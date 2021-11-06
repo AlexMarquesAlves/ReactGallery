@@ -9,6 +9,7 @@ const App = () => {
         {/* Área de upload */}
 
         {/* lista de fotos */}
+
       </C.Area>
     </C.Container>
   )
