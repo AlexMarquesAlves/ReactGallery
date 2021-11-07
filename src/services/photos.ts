@@ -13,7 +13,7 @@ export const getAll = async () => {
 
     list.push({
       name: photoList.items[i].name,
-      url: photoUrl,
+      url: photoUrl
     })
   }
 
