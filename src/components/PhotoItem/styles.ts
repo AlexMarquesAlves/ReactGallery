@@ -11,4 +11,15 @@ export const Container = styled.div`
     margin-bottom: 10px;
     border-radius: 10px;
   }
+
+  button {
+    background-color: #756df4;
+    border: 0;
+    color: #fff;
+    padding: 8px 10px;
+    font-size: 12px;
+    border-radius: 15px;
+    margin: 0 20px;
+    cursor: pointer;
+  }
 `;
